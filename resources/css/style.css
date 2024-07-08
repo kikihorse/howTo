@@ -1,0 +1,41 @@
+*{
+    background-color:#E5DCCF;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    color: #A2080E;
+    font-weight: 600;
+    text-decoration-line: underline;
+
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #664939;
+    text-decoration: underline;
+}
+
+h3{
+    font-size: 1.3rem;
+    color:#A2080E;
+}
+
+a {
+    text-align: center;
+    
+    background-color:#664939;
+    color: #E5DCCF;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+li{
+    color: #664939;
+}
+
+.yields50cookies {
+    background-color: aqua;
+}
